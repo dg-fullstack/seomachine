@@ -8,7 +8,6 @@ ehthumbs.db
 Thumbs.db
 
 # Editor directories and files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -112,3 +111,7 @@ env/
 # GA4 Credentials (additional explicit entry)
 ga4-credentials.json
 google-analytics-credentials.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
